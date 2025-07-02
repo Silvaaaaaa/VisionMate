@@ -21,5 +21,8 @@ VisionMate enables visually impaired users to ask natural language questions abo
 
 ---
 
-## 📂 Structure
+## 🏆 Achievements
 
+- Ranked **A+** in graduation evaluation  
+- Built an accessible tool for blind users  
+- Fine-tuned VQA models for real-world question answering on scenes
